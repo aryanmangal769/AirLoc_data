@@ -17,6 +17,7 @@ conda activate habitat
 conda install habitat-sim headless -c conda-forge -c aihabitat
 conda install -c fastai opencv-python-headless
 pip install pypng
+pip install PyQt5
 conda install -c open3d-admin -c conda-forge open3d
 conda install -c conda-forge scikit-learn==0.24.2
 conda install -c conda-forge tqdm
